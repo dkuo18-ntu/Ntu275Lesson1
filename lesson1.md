@@ -1,10 +1,10 @@
 # NTU GIT CLASS EXERCISE 1
 
 ## Name
-Donald Kuo
+**Donald Kuo**
 
 ## Date
-11/05/2016
+**11/05/2016**
 
 ## Github Username
 ### dkuo18-ntu
