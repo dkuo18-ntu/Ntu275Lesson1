@@ -7,7 +7,7 @@
 **11/05/2016**
 
 ## Github Username
-### dkuo18-ntu
++blue **dkuo18-ntu**
 
 ## My Favorite 3 Programming Languages
 #### 1. C
