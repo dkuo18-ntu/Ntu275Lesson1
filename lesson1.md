@@ -9,6 +9,6 @@ Donald Kuo
 ## Github Username
 dkuo18-ntu
 
-## My Favorite 3 Programming Languages
+## My Favorite 2 Programming Languages
 1. C
 2. Python
